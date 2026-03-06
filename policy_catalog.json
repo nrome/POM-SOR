@@ -1,0 +1,52 @@
+{
+    "policies": [
+        {
+            "policy_id": "546882ef-6d1a-46f5-b473-1751627bcd40",
+            "policy_name": "test",
+            "platforms": [
+                "Azure",
+                "Hashicorp Sentinel"
+            ],
+            "environment_scope": [
+                "DEV",
+                "UAT"
+            ],
+            "business_owner": "test",
+            "approval_status": "Approved",
+            "details": "test",
+            "created_by": "admin",
+            "created_date": "2026-03-06T16:01:26.868750+00:00",
+            "last_updated": "2026-03-06T16:12:52.160560+00:00"
+        }
+    ],
+    "exceptions": [
+        {
+            "exception_id": "e12d8b10-8941-4547-8903-a3e90b9bd5cb",
+            "workspace_alias": "test",
+            "workspace_name": "test",
+            "status": "Active",
+            "initialization_date": "2026-03-06",
+            "expiration_date": "2026-03-06",
+            "description": "test",
+            "inherited_by": [
+                "test"
+            ],
+            "created_by": "admin",
+            "created_date": "2026-03-06T16:00:34.710714+00:00"
+        },
+        {
+            "exception_id": "18648607-c196-420b-873a-f6f6f2eb67da",
+            "workspace_alias": "test",
+            "workspace_name": "test",
+            "status": "Active",
+            "initialization_date": "2026-03-06",
+            "expiration_date": "2026-03-06",
+            "description": "test",
+            "inherited_by": [
+                "test"
+            ],
+            "created_by": "admin",
+            "created_date": "2026-03-06T16:13:12.707849+00:00"
+        }
+    ]
+}
